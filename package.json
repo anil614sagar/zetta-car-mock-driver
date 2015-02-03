@@ -1,0 +1,27 @@
+{
+  "name": "zetta-car-mock-driver",
+  "version": "0.1.0",
+  "description": "Mock Car Device Driver for use in Zetta",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anil614sagar/zetta-car-mock-driver.git"
+  },
+  "keywords": [
+    "zetta",
+    "mock",
+    "car"
+  ],
+  "author": "Anil Sagar <anil614sagar@gmail.com> (https://in.linkedin.com/in/anilsagar/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anil614sagar/zetta-car-mock-driver/issues"
+  },
+  "homepage": "https://github.com/anil614sagar/zetta-car-mock-driver",
+  "dependencies": {
+    "zetta-device": "^0.9.0"
+  }
+}
