@@ -1,6 +1,6 @@
 {
   "name": "zetta-car-mock-driver",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Mock Car Device Driver for use in Zetta",
   "main": "index.js",
   "scripts": {
